@@ -7,11 +7,11 @@
 ### Tela onde a ONG entra em sua dashboard
 ![web](https://github.com/juliop3p/SemanaOmnistack11.0/blob/master/readmeImages/LogoWebScreen.PNG)
 
-### Dashboard
+### Página Dashboard
 ![web](https://github.com/juliop3p/SemanaOmnistack11.0/blob/master/readmeImages/DashboardWebScreen.PNG)
 
-### App Lista de Casos
+### Página de ocorrências
 ![web](https://github.com/juliop3p/SemanaOmnistack11.0/blob/master/readmeImages/ListIncidentsAppScreen.jpeg)
 
-### App Tela de contato
+### Página de contato
 ![web](https://github.com/juliop3p/SemanaOmnistack11.0/blob/master/readmeImages/IncidentAppScreen.jpeg)
